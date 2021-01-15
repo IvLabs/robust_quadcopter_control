@@ -1,6 +1,10 @@
 # Robust Quadcopter Control
 Develop and learn the dynamics of Quadcopter and implement control algorithms to the Quadcopter system.
 ## 1-D Control
+### Hover at height 0 m
+
+![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/1-D%20Quadrotor%20Control/Results/Hover%20at%20height%200m.gif)
+
 ### Hover at height 1 m
 
 ![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/1-D%20Quadrotor%20Control/Results/Hover%20at%20height%201m.gif)
@@ -8,11 +12,11 @@ Develop and learn the dynamics of Quadcopter and implement control algorithms to
 ## 2-D Control
 ### Line Trajectory
 
-![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/2-D%20QuadRotor%20Control/Results/Line%20Trajectory.gif)
+![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/2-D%20QuadRotor%20Control/Results/Line%20Traj.gif)
 
 ### Sine Trajectory
 
-![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/2-D%20QuadRotor%20Control/Results/Sine%20Trajectory.gif)
+![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/2-D%20QuadRotor%20Control/Results/Sine%20Traj.gif)
 
 ## 3-D Control
 ### Line Trajectory
