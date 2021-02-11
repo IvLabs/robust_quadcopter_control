@@ -7,3 +7,4 @@
 * [Understanding PID Control, by MATLAB Tech Talks](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 * [State Space, by MATLAB Tech Talks](https://www.youtube.com/playlist?list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w)
 * [Drone Simulation and Control, by MATLAB Tech Talks](https://in.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
+* [Introduction: Simulink Modeling](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkModeling) 
