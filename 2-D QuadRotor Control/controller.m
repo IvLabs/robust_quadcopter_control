@@ -43,13 +43,13 @@ kvy = 5;
 kp_phi = 1000;
 kv_phi = 10;
 
-u1 = m*(g + yzd_ddot(2) + kvz*(yzd_dot(2)-yz_dot(2)) + kpz*(yzd(2)-yz(2)));
+u1 = m*(g + yzd_ddot(2) + kvz*(yzd_dot(2)-yz_dot(2)) + kpz*(yzd(2)-yz(2)));      %Control Equation for the 1st Actuator(or 1st input to the plant)
 
 phic_dot = 0;
 phic_ddot = 0;
-phic = (-1.0/g)*(yzd_ddot(1) + kvy*(yzd_dot(1)-yz_dot(1)) + kpy*(yzd(1)-yz(1)));
+phic = (-1.0/g)*(yzd_ddot(1) + kvy*(yzd_dot(1)-yz_dot(1)) + kpy*(yzd(1)-yz(1)));  %Commanded angle phi for following the desired trajectory
 
-u2 = Ixx*(phic_ddot + kv_phi*(phic_dot-phi_dot) + kp_phi*(phic-phi));
+u2 = Ixx*(phic_ddot + kv_phi*(phic_dot-phi_dot) + kp_phi*(phic-phi));             %Control Equation for the 2nd Actuator(or 2nd input to the plant)
 
 if(u1>maxF) 
     u1 = maxF; 
