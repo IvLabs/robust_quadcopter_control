@@ -7,10 +7,10 @@ if nargin > 2
 
 else
     
-    t1 = 3;
-    t2 = 2;
-    t3 = 2;
-    t4 = 3;
+    t1 = 3;           % Desired traversing time between 1st and 2nd waypoint
+    t2 = 2;           % Desired traversing time between 2nd and 3rd waypoint
+    t3 = 2;           % Desired traversing time between 3rd and 4th waypoint
+    t4 = 3;           % Desired traversing time between 4th and 5th waypoint
     s0 = 0;
     s1 = s0+t1;
     s2 = s1+t2;
@@ -19,9 +19,9 @@ else
     matrixA = @Amatrix;
     matrixB = @Bmatrix;
     coefficientvalue = @eqnsolver;
-    xwaypoint = [waypoints0(1);waypoints0(2);waypoints0(2);waypoints0(3);waypoints0(3);waypoints0(4);waypoints0(4);waypoints0(5)];
-    ywaypoint = [waypoints0(6);waypoints0(7);waypoints0(7);waypoints0(8);waypoints0(8);waypoints0(9);waypoints0(9);waypoints0(10)];
-    zwaypoint = [waypoints0(11);waypoints0(12);waypoints0(12);waypoints0(13);waypoints0(13);waypoints0(14);waypoints0(14);waypoints0(15)];
+    xwaypoint = [waypoints0(1);waypoints0(2);waypoints0(2);waypoints0(3);waypoints0(3);waypoints0(4);waypoints0(4);waypoints0(5)];      % X coordinates of all waypoints
+    ywaypoint = [waypoints0(6);waypoints0(7);waypoints0(7);waypoints0(8);waypoints0(8);waypoints0(9);waypoints0(9);waypoints0(10)];     % Y coordinates of all waypoints
+    zwaypoint = [waypoints0(11);waypoints0(12);waypoints0(12);waypoints0(13);waypoints0(13);waypoints0(14);waypoints0(14);waypoints0(15)];    % Z coordinates of all waypoints
     X = coefficientvalue(t1,t2,t3,t4,xwaypoint);
     Y = coefficientvalue(t1,t2,t3,t4,ywaypoint);
     Z = coefficientvalue(t1,t2,t3,t4,zwaypoint);
