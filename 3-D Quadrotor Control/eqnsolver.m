@@ -1,3 +1,5 @@
+% Converting constraint equations into matrix form to obtain coefficients of minimum snap trajectory equations.
+% 8(n-1) constraint equations,where n is number of waypoints given.
 function X = eqnsolver(t1,t2,t3,t4,waypoints)
 matrixA = @Amatrix;
 matrixB = @Bmatrix;
