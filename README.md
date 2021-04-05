@@ -75,3 +75,14 @@
   
   **Error Plots(LQR: Yellow, PID: Blue)**
   ![](https://github.com/IvLabs/robust_quadcopter_control/blob/main/Simulink%20Model/Results/LQR%20vs%20PID.png)
+  
+## Contributors: 
+* [Ayush](https://github.com/Ayush1285)
+* Mokshada Barhate
+* [Rajesh Nagula](https://github.com/rajesh3699)
+* [Rishabh Verma](https://github.com/RiVer2000)
+* [Ritesh Zoad](https://github.com/RiteshZoad)
+* [Rushika Joshi](https://github.com/rushikajoshi)
+* [Shruti Murarka](https://github.com/Shrutii07)
+* [Varad Vaidya](https://github.com/varadVaidya)
+
