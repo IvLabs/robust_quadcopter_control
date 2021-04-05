@@ -78,7 +78,7 @@
   
 ## Contributors: 
 * [Ayush](https://github.com/Ayush1285)
-* Mokshada Barhate
+* [Mokshada Barhate](https://github.com/mokshada14)
 * [Rajesh Nagula](https://github.com/rajesh3699)
 * [Rishabh Verma](https://github.com/RiVer2000)
 * [Ritesh Zoad](https://github.com/RiteshZoad)
