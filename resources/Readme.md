@@ -9,6 +9,8 @@
 * [State Space, by MATLAB Tech Talks](https://www.youtube.com/playlist?list=PLn8PRpmsu08podBgFw66-IavqU2SqPg_w)
 * [Drone Simulation and Control, by MATLAB Tech Talks](https://in.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html)
 * [Introduction: Simulink Modeling](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkModeling) 
+* [Linear Quadratic Regulator Control for the Inverted Pendulum on a Cart, by Steve Burnton](https://youtu.be/1_UobILf3cc)
+* [Introduction to Linear Quadratic Regulator Control, by Christopher Lum](https://youtu.be/wEevt2a4SKI)
 ## Research Papers
 * [Dynamic modeling, Simulation and PID controller of Unmanned Aerial Vehicle UAV](https://drive.google.com/file/d/17vC72CxguJSLH8T1SG_DPBBhd8WRzE7P/view?usp=sharing)
 * [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
