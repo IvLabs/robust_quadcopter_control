@@ -12,5 +12,5 @@
 * [Linear Quadratic Regulator Control for the Inverted Pendulum on a Cart, by Steve Burnton](https://youtu.be/1_UobILf3cc)
 * [Introduction to Linear Quadratic Regulator Control, by Christopher Lum](https://youtu.be/wEevt2a4SKI)
 ## Research Papers
-* [Dynamic modeling, Simulation and PID controller of Unmanned Aerial Vehicle UAV](https://drive.google.com/file/d/17vC72CxguJSLH8T1SG_DPBBhd8WRzE7P/view?usp=sharing)
-* [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://drive.google.com/file/d/1x7zfYDEAd4OGHKVt8xIQ0uwxMXA-TSl7/view?usp=sharing)
+* [Dynamic modeling, Simulation and PID controller of Unmanned Aerial Vehicle UAV](https://github.com/IvLabs/robust_quadcopter_control/blob/main/resources/Dynamic%20modeling%2C%20Simulation%20and%20PID%20controller%20of%20Unmanned%20Aerial%20Vehicle%20UAV.pdf)
+* [Modelling and Stabilizing Control laws design based on Backstepping for an UAV type Quadrotor](https://github.com/IvLabs/robust_quadcopter_control/blob/main/resources/Modelling%20and%20Stabilizing%20Control%20laws%20design%20based%20on%20Backstepping%20for%20an%20UAV%20type%20Quadrotor.pdf)
