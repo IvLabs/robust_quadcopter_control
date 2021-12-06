@@ -1,0 +1,12 @@
+kpx = 16;
+kdx = 2.5;
+kpy = 16;
+kdy = 2.5;
+kpz = 20;
+kdz = 4.5;
+kpphi = 50;
+kdphi = 1.9;
+kptheta = 60;
+kdtheta = 1.95;
+kppsi = 1;
+kdpsi =0;
